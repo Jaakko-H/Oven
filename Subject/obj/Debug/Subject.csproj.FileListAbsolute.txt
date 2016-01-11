@@ -1,0 +1,10 @@
+D:\Jaakko\Fontys\Assignments\DPR\Oven\Subject\obj\Debug\Subject.csprojResolveAssemblyReference.cache
+D:\Jaakko\Fontys\Assignments\DPR\Oven\Subject\obj\Debug\Subject.Properties.Resources.resources
+D:\Jaakko\Fontys\Assignments\DPR\Oven\Subject\obj\Debug\Subject.csproj.GenerateResource.Cache
+D:\Jaakko\Fontys\Assignments\DPR\Oven\Subject\bin\Debug\Subject.exe
+D:\Jaakko\Fontys\Assignments\DPR\Oven\Subject\bin\Debug\Subject.pdb
+D:\Jaakko\Fontys\Assignments\DPR\Oven\Subject\obj\Debug\Subject.exe
+D:\Jaakko\Fontys\Assignments\DPR\Oven\Subject\obj\Debug\Subject.pdb
+D:\Jaakko\Fontys\Assignments\DPR\Oven\Subject\obj\Debug\Subject.Oven.resources
+D:\Jaakko\Fontys\Assignments\DPR\Oven\Subject\obj\Debug\Subject.PullObserver.resources
+D:\Jaakko\Fontys\Assignments\DPR\Oven\Subject\obj\Debug\Subject.PushObserver.resources

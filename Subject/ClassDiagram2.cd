@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Subject.Oven" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAEAAiCAABIARACAgAACAIBAgABAEICAAGQEBAA=</HashCode>
+      <FileName>Oven.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Subject.Program" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Subject.PullObserver" BaseTypeListCollapsed="true">
+    <Position X="2.5" Y="2" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Subject.PullObserver.SetLabelSub" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PullObserver.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQgAAAAACAAABAgAACAAAACAggAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>PullObserver.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Subject.PushObserver" BaseTypeListCollapsed="true">
+    <Position X="4.25" Y="2" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Subject.PushObserver.SetLabelSub" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PushObserver.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQgAAAQACAAABAgAACAAAACAggAgAAAAAAAAgAAAAA=</HashCode>
+      <FileName>PushObserver.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Subject.Properties.Resources" Collapsed="true">
+    <Position X="6.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Subject.Properties.Settings" Collapsed="true">
+    <Position X="6.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Subject.IOven">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAIAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>IOven.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Subject.IPullObserver">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IPullObserver.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Subject.IPushObserver">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IPushObserver.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
